@@ -52,7 +52,7 @@
 
 | **No.** | **NIM**   | **Nama Lengkap**            | **Email** | **Akun Github** | **Keterangan** |
 |---------|-----------|-----------------------------|-----------|-----------------|----------------|
-| 1.      | 110220273 | Jodi Al Hadi                |           |                 |                |
+| 1.      | 110220273 | Jodi Al Hadi                |jodi20273ti@student.nurulfikri.ac.id          |                 |jodi2708                |
 | 2.      | 110219052 | Muhammad Sya'bandi Abdillah |           |                 |                |
 | 3.      | 110220034 | Muhammad Zulfikar           |           |                 |                |
 | 4.      | 110220227 | Sheilla Inayatul Maula      | maulasheila496@gmail.com| SheillaInyt           |            |                |
